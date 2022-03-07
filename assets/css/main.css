@@ -2826,7 +2826,7 @@ input, select, textarea {
 			background-color: rgb(145, 120, 192);
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/overlay1.png"), url("../../images/pexels-taryn-elliott-6183139.jpg");
+			background-image: url("images/overlay1.png"), url("../../images/back_blurry_resized.jpg");
 			background-size: auto,							cover;
 		}
 		
